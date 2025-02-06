@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Main branch version: Initial feature details in main branch.
+=======
+New feature: User authentication improvements and better UI design.
+>>>>>>> feature-update
